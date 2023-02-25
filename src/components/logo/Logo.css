@@ -1,0 +1,17 @@
+.logo {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 15px auto;
+  }
+  .logo img{
+    max-width: 350px;
+  }
+  
+  .logo h4 {
+    margin: 0;
+  }
+  
+  .logo h1 {
+    margin-bottom: 0;
+  }

@@ -1,0 +1,17 @@
+.card {
+  height: 450px;
+  background-color: var(--grey);
+  border-radius: 15px;
+}
+
+.card img {
+  width: 300px;
+  max-height: 187.5px;
+  height: auto;
+  border-radius: 15px 15px 0 0;
+}
+
+.card h2{
+    text-align: center;
+    color: var(--text-grey);
+}

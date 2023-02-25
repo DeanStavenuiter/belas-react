@@ -1,0 +1,12 @@
+.home-inner {
+  grid-area: 2 / 2 / 3 / 6;
+  display: flex;
+  flex-direction: column;
+}
+
+.cards{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
